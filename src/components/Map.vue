@@ -1,0 +1,3 @@
+<template>
+  <div class="map" style="position:relative;overflow:hidden;"><a href="https://yandex.ru/maps/213/moscow/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;">Москва</a><a href="https://yandex.ru/maps/213/moscow/?ll=37.672392%2C55.737346&utm_medium=mapframe&utm_source=maps&z=10.88" style="color:#eee;font-size:12px;position:absolute;top:14px;"></a><iframe src="https://yandex.ru/map-widget/v1/-/CCQlbBvjWB" width="216" height="254" frameborder="0" allowfullscreen="true" style="position:relative;"></iframe></div>
+</template>
